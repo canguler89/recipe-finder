@@ -8,6 +8,7 @@ function App() {
      <h1>Recipe Finder</h1>
      <SearchRecipes />
      <RecipeList />
+  
     </div>
   );
 }
